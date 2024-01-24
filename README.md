@@ -13,7 +13,7 @@ An obj file contains all information about any 3d object in the form of followin
    ---] Faces __ (in the format "vertex/texpos/normal")
    
 
-For display any obj file ,you need place it in the obj_files folder ,and run following command
+For display any obj file ,you need to place it in the obj_files folder ,and run following command
 
 >> python obj_loader.py
 
