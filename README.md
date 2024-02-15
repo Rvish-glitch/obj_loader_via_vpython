@@ -1,6 +1,6 @@
 # obj_loader_via_vpython
 
-It is a project for loading and displaying a obj file in vpython using its triangle and quads to make a compound object.
+It is a project for loading and displaying an obj file in vpython using its triangle and quads to make a compound object.
 
 An obj file contains all information about any 3d object in the form of following parameters:
 
